@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Jul  4 10:39:45 2026
+# Process ID         : 14920
+# Current directory  : C:/Users/ajayk/project_2/project_2.runs/synth_1
+# Command line       : vivado.exe -log gates.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source gates.tcl
+# Log file           : C:/Users/ajayk/project_2/project_2.runs/synth_1/gates.vds
+# Journal file       : C:/Users/ajayk/project_2/project_2.runs/synth_1\vivado.jou
+# Running On         : AjayKumarGopi
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 7535HS with Radeon Graphics        
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 7723 MB
+# Swap memory        : 15569 MB
+# Total Virtual      : 23292 MB
+# Available Virtual  : 8017 MB
+#-----------------------------------------------------------
+source gates.tcl -notrace
